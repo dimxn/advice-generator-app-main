@@ -21,6 +21,8 @@ function getAdvice() {
 advice.style.opacity = 0;
 adviceText.style.opacity = 0;
 getResult.addEventListener('click', () => {
+    advice.style.opacity = 0;
+    adviceText.style.opacity = 0;
     getAdvice();
     getResult.classList.toggle('btn__roll');
 });
