@@ -50,6 +50,7 @@ body {
 
 .pattern {
   content: url("./images/pattern-divider-desktop.svg");
+  padding-bottom: 25px;
 }
 
 .btn__cont {
