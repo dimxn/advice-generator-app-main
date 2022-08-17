@@ -22,8 +22,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [click!](https://github.com/dimxn/product-preview-card-component-main/)
-- Live Site URL: [click!](https://dimxn.github.io/product-preview-card-component-main/)
+- Solution URL: [click!](https://github.com/dimxn/advice-generator-app-main/)
+- Live Site URL: [click!](https://dimxn.github.io/advice-generator-app-main/)
 
 ## My process
 
