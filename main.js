@@ -23,6 +23,12 @@ adviceText.style.opacity = 0;
 getResult.addEventListener('click', () => {
     advice.style.opacity = 0;
     adviceText.style.opacity = 0;
+    getResult.disabled = true;
+    getResult.classList.add("disabled");
+    const f = setTimeout(() => {
+        getResult.removeAttribute("disabled");
+        getResult.classList.remove("disabled");
+    }, 2000);
     getAdvice();
     getResult.classList.toggle('btn__roll');
 });
